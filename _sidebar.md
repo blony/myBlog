@@ -3,5 +3,4 @@
 
   - [HTML5定位的使用，及定位失败的原因](/webDev/HTML5Geolocation.md)
   - [JavaScript中双等号(==)的比较机制](/webDev/double-equals.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+  - [deep selector深度作用选择器](/webDev/deep-selector.md)

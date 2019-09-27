@@ -5,3 +5,4 @@
   - [JavaScript中双等号(==)的比较机制](/webDev/double-equals.md)
   - [deep selector深度作用选择器](/webDev/deep-selector.md)
   - [Vue中this使用的注意事项](/webDev/Vue-this.md)
+  - [JavaScript的排序算法——快速排序](/webDev/quicksort.md)
